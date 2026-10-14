@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome to My Portfolio 👋
 
-<!--
-**tboblack/tboblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am developing practical skills in cybersecurity
+through hands-on projects and continuous learning.
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects focused on security monitoring, threat detection,
+vulnerability assessment, and incident response.
+
+## 🛠️ Skills and Tools
+
+- **Cybersecurity:** Linux, security logs, networking, SIEM fundamentals
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## 🎯 Current Goals
+
+- Build practical cybersecurity labs
+- Improve my data analysis and visualisation skills
+- Document my projects and learning journey
